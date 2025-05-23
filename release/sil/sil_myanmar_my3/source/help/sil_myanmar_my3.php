@@ -18,9 +18,9 @@
 		</h3>
 		<h4>Shift မနှိပ်ထားပုံ</h4>
 
-	     <p><img src="sil_myanmar_my3U_.png"></p>
+	     <p><img src="epk_peduU_.png"></p>
 		<h4>Shift နှိပ်ထားပုံ</h4>
-      <p><img src="sil_myanmar_my3U_S.png"></p>
+      <p><img src="epk_peduU_S.png"></p>
 
 				<p align="right"><a href="#top">^^အပေါ်သို့</a></p>
 

@@ -1,1 +1,1 @@
-This keyboard has been deprecated and replaced by release/sil/sil_myanmar_my3
+This keyboard has been deprecated and replaced by release/sil/epk_pedu

@@ -3,9 +3,7 @@
   <Options>
     <BuildPath>$PROJECTPATH\build</BuildPath>
     <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
-    <WarnDeprecatedCode>True</WarnDeprecatedCode>
     <CheckFilenameConventions>True</CheckFilenameConventions>
-    <ProjectType>keyboard</ProjectType>
   </Options>
   <Files>
     <File>
@@ -105,6 +103,14 @@
       <Filepath>source\readme.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
+      <ParentFileID>id_3eb16bd74048dff0858fffbdce285e2f</ParentFileID>
+    </File>
+    <File>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <Filename>LICENSE.md</Filename>
+      <Filepath>source\..\LICENSE.md</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.md</FileType>
       <ParentFileID>id_3eb16bd74048dff0858fffbdce285e2f</ParentFileID>
     </File>
   </Files>

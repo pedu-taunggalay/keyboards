@@ -3,21 +3,18 @@
   <Options>
     <BuildPath>$PROJECTPATH\build</BuildPath>
     <CompilerWarningsAsErrors>True</CompilerWarningsAsErrors>
-    <WarnDeprecatedCode>True</WarnDeprecatedCode>
     <CheckFilenameConventions>True</CheckFilenameConventions>
-    <ProjectType>keyboard</ProjectType>
   </Options>
   <Files>
     <File>
       <ID>id_3514432d07bff7f139c589e99780ed38</ID>
       <Filename>sgaw_karen.kps</Filename>
       <Filepath>source\sgaw_karen.kps</Filepath>
-      <FileVersion>1.0</FileVersion>
+      <FileVersion></FileVersion>
       <FileType>.kps</FileType>
       <Details>
         <Name>sgaw_karen</Name>
-        <Copyright>The MIT License (MIT) © 2024 Jcturner12</Copyright>
-        <Version>1.0</Version>
+        <Copyright>© 2024 Jcturner12</Copyright>
       </Details>
     </File>
     <File>
@@ -56,7 +53,7 @@
       <FileType>.kmn</FileType>
       <Details>
         <Name>sgaw_karen</Name>
-        <Copyright>The MIT License (MIT) © 2024 Jcturner12</Copyright>
+        <Copyright>Â© 2024 Jcturner12</Copyright>
         <Message>Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</Message>
       </Details>
     </File>
@@ -90,6 +87,22 @@
       <Filepath>source\..\build\sgaw_karen.kmx</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kmx</FileType>
+      <ParentFileID>id_3514432d07bff7f139c589e99780ed38</ParentFileID>
+    </File>
+    <File>
+      <ID>id_c296b5df3dc126e219e0173fcbc1baec</ID>
+      <Filename>LICENSE.md</Filename>
+      <Filepath>source\..\LICENSE.md</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.md</FileType>
+      <ParentFileID>id_3514432d07bff7f139c589e99780ed38</ParentFileID>
+    </File>
+    <File>
+      <ID>id_54426aa6a896b908e4c2aefca0b87fd8</ID>
+      <Filename>sgaw_karen_onscreen_keyboard.jpg</Filename>
+      <Filepath>source\welcome\sgaw_karen_onscreen_keyboard.jpg</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.jpg</FileType>
       <ParentFileID>id_3514432d07bff7f139c589e99780ed38</ParentFileID>
     </File>
     <File>

@@ -1,13 +1,13 @@
 ﻿store(&VERSION) "9.0"
 store(&NAME) "Myanmar3 (SIL)"
-store(&BITMAP) 'sil_myanmar_my3.ico'
-store(&VISUALKEYBOARD) 'sil_myanmar_my3.kvks'
+store(&BITMAP) 'epk_pedu.ico'
+store(&VISUALKEYBOARD) 'epk_pedu.kvks'
 store(&capsalwaysoff) "1"
 store(&TARGETS) 'any'
 store(&KEYBOARDVERSION) '1.7.4'
 store(&ETHNOLOGUECODE) 'mya'
 store(&COPYRIGHT) '© SIL Global'
-store(&LAYOUTFILE) 'sil_myanmar_my3.keyman-touch-layout'
+store(&LAYOUTFILE) 'epk_pedu.keyman-touch-layout'
 
 begin Unicode > use(Main)
 

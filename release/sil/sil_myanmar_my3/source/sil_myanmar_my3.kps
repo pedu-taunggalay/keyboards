@@ -27,13 +27,13 @@ keyboard layout originally developed by Myanmar NLP on MSKLC software.</Descript
   </Info>
   <Files>
     <File>
-      <Name>..\build\sil_myanmar_my3.kvk</Name>
-      <Description>File sil_myanmar_my3.kvk</Description>
+      <Name>..\build\epk_pedu.kvk</Name>
+      <Description>File epk_pedu.kvk</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
     </File>
     <File>
-      <Name>..\build\sil_myanmar_my3.kmx</Name>
+      <Name>..\build\epk_pedu.kmx</Name>
       <Description>Keyboard Myanmar3 (SIL)</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kmx</FileType>
@@ -45,14 +45,14 @@ keyboard layout originally developed by Myanmar NLP on MSKLC software.</Descript
       <FileType>.htm</FileType>
     </File>
     <File>
-      <Name>welcome\sil_myanmar_my3U_.png</Name>
-      <Description>File sil_myanmar_my3U_.png</Description>
+      <Name>welcome\epk_peduU_.png</Name>
+      <Description>File epk_peduU_.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>welcome\sil_myanmar_my3U_S.png</Name>
-      <Description>File sil_myanmar_my3U_S.png</Description>
+      <Name>welcome\epk_peduU_S.png</Name>
+      <Description>File epk_peduU_S.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
@@ -99,26 +99,26 @@ keyboard layout originally developed by Myanmar NLP on MSKLC software.</Descript
       <FileType>.ttf</FileType>
     </File>
     <File>
-      <Name>..\build\sil_myanmar_my3.js</Name>
-      <Description>File sil_myanmar_my3.js</Description>
+      <Name>..\build\epk_pedu.js</Name>
+      <Description>File epk_pedu.js</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.js</FileType>
     </File>
     <File>
-      <Name>welcome\sil_myanmar_my3_mobile_default.png</Name>
-      <Description>File sil_myanmar_my3_mobile_default.png</Description>
+      <Name>welcome\epk_pedu_mobile_default.png</Name>
+      <Description>File epk_pedu_mobile_default.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>welcome\sil_myanmar_my3_mobile_numeric.png</Name>
-      <Description>File sil_myanmar_my3_mobile_numeric.png</Description>
+      <Name>welcome\epk_pedu_mobile_numeric.png</Name>
+      <Description>File epk_pedu_mobile_numeric.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
     <File>
-      <Name>welcome\sil_myanmar_my3_mobile_shift.png</Name>
-      <Description>File sil_myanmar_my3_mobile_shift.png</Description>
+      <Name>welcome\epk_pedu_mobile_shift.png</Name>
+      <Description>File epk_pedu_mobile_shift.png</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.png</FileType>
     </File>
@@ -156,7 +156,7 @@ keyboard layout originally developed by Myanmar NLP on MSKLC software.</Descript
   <Keyboards>
     <Keyboard>
       <Name>Myanmar3 (SIL)</Name>
-      <ID>sil_myanmar_my3</ID>
+      <ID>epk_pedu</ID>
       <Version>1.7.2</Version>
       <OSKFont>..\..\..\shared\fonts\mymr\Pyidaungsu\Pyidaungsu-Regular.ttf</OSKFont>
       <DisplayFont>..\..\..\shared\fonts\mymr\Pyidaungsu\Pyidaungsu-Regular.ttf</DisplayFont>
