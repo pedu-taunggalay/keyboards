@@ -91,5 +91,11 @@
       <key vkey="K_Y">ပ</key>
       <key vkey="K_Z">ဖ</key>
     </layer>
+    <layer shift="A">
+      <key vkey="K_R">ၟ</key>
+      <key vkey="K_E">ၞ</key>
+      <key vkey="K_V">ၠ</key>
+      <key vkey="K_B">ၜ</key>
+    </layer>
   </encoding>
 </visualkeyboard>

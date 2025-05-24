@@ -3,7 +3,7 @@ store(&NAME) "East_Pwo_Karen (PEDU)"
 store(&BITMAP) 'epk_pedu.ico'
 store(&VISUALKEYBOARD) 'epk_pedu.kvks'
 store(&capsalwaysoff) "1"
-store(&TARGETS) 'any'
+store(&TARGETS) 'iphone androidphone mobile'
 store(&KEYBOARDVERSION) '1.0.0'
 store(&ETHNOLOGUECODE) 'kjp'
 store(&COPYRIGHT) '© Phlon Education Development Unit'
