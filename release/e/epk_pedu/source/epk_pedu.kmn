@@ -4,9 +4,9 @@ store(&BITMAP) 'epk_pedu.ico'
 store(&VISUALKEYBOARD) 'epk_pedu.kvks'
 store(&capsalwaysoff) "1"
 store(&TARGETS) 'any'
-store(&KEYBOARDVERSION) '1.7.4'
-store(&ETHNOLOGUECODE) 'mya'
-store(&COPYRIGHT) '© SIL Global'
+store(&KEYBOARDVERSION) '1.0.0'
+store(&ETHNOLOGUECODE) 'kjp'
+store(&COPYRIGHT) '© Phlon Education Development Unit'
 store(&LAYOUTFILE) 'epk_pedu.keyman-touch-layout'
 
 begin Unicode > use(Main)
