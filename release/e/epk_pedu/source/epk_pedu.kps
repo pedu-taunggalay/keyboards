@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Package>
   <System>
-    <KeymanDeveloperVersion>17.0.332.0</KeymanDeveloperVersion>
+    <KeymanDeveloperVersion>18.0.236.0</KeymanDeveloperVersion>
     <FileVersion>7.0</FileVersion>
   </System>
   <Options>
@@ -19,11 +19,12 @@
   </StartMenu>
   <Info>
     <Version URL=""></Version>
-    <Name URL="">Myanmar3 (SIL)</Name>
-    <Copyright URL="">© SIL Global</Copyright>
-    <Description URL="">This keyboard is designed for typing in the Myanmar (Burmese) language.
-The Keyman keyboard is an updated and modified version of the Myanmar3
-keyboard layout originally developed by Myanmar NLP on MSKLC software.</Description>
+    <Name URL="">Eastern Pwo Karen (PEDU)</Name>
+    <Copyright URL="">© Phlon Education Development Unit</Copyright>
+    <Description URL="">This keyboard is designed for typing in the Eastern Pwo language.
+The Keyman keyboard is an updated and modified version of the ZawCode
+keyboard layout originally developed by TTKeyboard.</Description>
+    <Author URL="mailto:pedu.taunggalay@gmail.com">PEDU</Author>
   </Info>
   <Files>
     <File>
@@ -155,19 +156,14 @@ keyboard layout originally developed by Myanmar NLP on MSKLC software.</Descript
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Myanmar3 (SIL)</Name>
+      <Name>Eastern Pwo Karen (PEDU)</Name>
       <ID>epk_pedu</ID>
-      <Version>1.7.2</Version>
       <OSKFont>..\..\..\shared\fonts\mymr\Pyidaungsu\Pyidaungsu-Regular.ttf</OSKFont>
       <DisplayFont>..\..\..\shared\fonts\mymr\Pyidaungsu\Pyidaungsu-Regular.ttf</DisplayFont>
       <Languages>
-        <Language ID="my">Burmese</Language>
+        <Language ID="kjp">Pwo Eastern Karen</Language>
       </Languages>
     </Keyboard>
   </Keyboards>
-  <RelatedPackages>
-    <RelatedPackage ID="myanmar" Relationship="deprecates"/>
-    <RelatedPackage ID="burmese02" Relationship="deprecates"/>
-  </RelatedPackages>
   <Strings/>
 </Package>

@@ -1,5 +1,5 @@
 ﻿store(&VERSION) "9.0"
-store(&NAME) "East_Pwo_Karen (PEDU)"
+store(&NAME) 'Eastern_Pwo_Karen (PEDU)'
 store(&BITMAP) 'epk_pedu.ico'
 store(&VISUALKEYBOARD) 'epk_pedu.kvks'
 store(&capsalwaysoff) "1"
